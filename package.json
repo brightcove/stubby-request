@@ -2,7 +2,7 @@
   "name": "stubby-request",
   "version": "1.0.0",
   "description": "This module holds common code used for stubbing request methods and tracking calls that were made.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
