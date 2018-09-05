@@ -23,7 +23,7 @@
   "homepage": "https://github.com/brightcove/stubby-request#readme",
   "dependencies": {
     "chai": "~3.5.0",
-    "request": "~2.79.0"
+    "request": "~2.88.0"
   },
   "devDependencies": {
     "grunt": "~1.0.1",
