@@ -1,6 +1,6 @@
 {
   "name": "stubby-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module holds common code used for stubbing request methods and tracking calls that were made.",
   "main": "lib/index.js",
   "scripts": {
